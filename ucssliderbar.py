@@ -99,7 +99,7 @@ def get_loc(number):
             if goal[i][j]==number:
                 return [i,j]
             
-def get_cost(state):
+def get_cost(state): ## using the number of places each tile should move to be in its goal position, as the cost function
     cost=0
     for i in range(3):
         for j in range(3):
