@@ -4,6 +4,5 @@ The algorithms are :
 1. Breath first search
 2. Depth first search
 3. Uniform cost search
-4. Best first search
-5. A* algorithm
-6. Recursive best first search
+4. A* algorithm
+5. Recursive best first search
